@@ -5,7 +5,7 @@ A video feed aggregation script to combine mp4 video files and sync up their tim
 How to start:
 - adjust settings in the scripts to your liking
 - Start recording with as many iphones as you want. you don't need to start the recordings at the exact same time. More space is better, 64 GB or better for the long run.
-- For convenience, Use the Google Web Application (code.gs) I created on a 4th iphone or a webpage, to mark timestamps of moments in your lifting that you want the script to extract from all the raw video files later.
+- For convenience, Use the Google Web Application (code.gs) I created on. you can launch this on an additional iphone or a webpage, to mark timestamps of moments in your lifting that you want the script to extract from all the raw video files later.
 
 How to combine and sync up timestamps (do after lifting or event is totally done for the day):
 - On windows, Run the file system monitor (Script adapted from: BigTeddy 05 September 2011)
